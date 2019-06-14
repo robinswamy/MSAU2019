@@ -1,5 +1,6 @@
 const project={
     name:"Robin",
     rollnumber:12,
-    address:"delhi"
+    address:"delhi",
+    phone:1234
 }
